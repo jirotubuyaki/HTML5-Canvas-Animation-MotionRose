@@ -10,7 +10,7 @@ Use https://code.createjs.com/1.0.0/createjs.js for a non-minified version of th
 [Random-Flower DEMO](https://jirotubuyaki.github.io/createjs/rose/index.html)   
 
 ### ScreenShot  
-![ScreenShot](https://github.com/jirotubuyaki/Random-Flower/blob/master/ScreenShot.png)  
+![ScreenShot](https://raw.githubusercontent.com/jirotubuyaki/Rose/main/screen.png)  
 Music motion start by click on stage. 
 
 ### Acknowledgments
