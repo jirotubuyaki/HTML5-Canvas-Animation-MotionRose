@@ -1,9 +1,9 @@
 ## Generative Arts Music Rose by CreateJS
 ### Introduction
-This program is created by CrateJS (JavaScript) + HTML5. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
+This program is created by CreateJS (JavaScript) + HTML5. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
    
 ### CreateJS Version
-Please check CrateJS version : 2022/10/27
+Please check CreateJS version : 2022/10/27
 Use https://code.createjs.com/1.0.0/createjs.js for a non-minified version of the code.
 
 ### Please Look
