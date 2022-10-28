@@ -1,6 +1,6 @@
 ## Generative Arts Music Rose by HTML5 Canvas CreateJS(JavaScript)
 ### Introduction
-This program is created by CreateJS (JavaScript) + HTML5. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
+This program is created by CreateJS (JavaScript) + HTML5 Canvs. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
    
 ### CreateJS Version
 Please check CreateJS version : 2022/10/27
