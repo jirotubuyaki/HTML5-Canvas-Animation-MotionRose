@@ -7,7 +7,7 @@ Please check CreateJS version : 2022/10/27
 Use https://code.createjs.com/1.0.0/createjs.js for a non-minified version of the code.
 
 ### Please Look
-[Random-Flower DEMO](https://jirotubuyaki.github.io/createjs/rose/index.html)   
+[Music Rose DEMO](https://jirotubuyaki.github.io/createjs/rose/index.html)   
 
 ### ScreenShot  
 ![ScreenShot](https://raw.githubusercontent.com/jirotubuyaki/Rose/main/screen.png)  
