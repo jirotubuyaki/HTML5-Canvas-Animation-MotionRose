@@ -3,7 +3,7 @@
 <br>Music Rose
 </p>
 
-## Animation Music Rose by JavaScript Web Tool HTML5 Canvas
+## Animation Music Rose - JavaScript Web Tool on HTML5 Canvas
 ### Introduction
 This program is created by CreateJS (JavaScript) + HTML5 Canvas. You can use it for your web pages and modify the design. If you watch the design and art, please excuse "index.html" on your browser.  
    
