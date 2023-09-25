@@ -1,6 +1,6 @@
 <p align=center>
     <img src="https://raw.githubusercontent.com/jirotubuyaki/Rose/main/screen.png">
-<br>Music motion start by click on stage.
+<br>Music Rose
 </p>
 
 ## Generative Arts Music Rose by HTML5 Canvas CreateJS(JavaScript)
